@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T00:06:03.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="inNfcn8ivGZph4UoBWhN" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T00:32:07.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="n9q68s8vp0kS9VOmjEr0" version="16.5.3" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1666" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
-          <mxGeometry x="89.25" y="271.25" width="62.5" height="62.5" as="geometry" />
+          <mxGeometry x="88.38" y="271.5" width="62.5" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="700.75" y="188" width="60" height="60" as="geometry" />
@@ -251,12 +251,6 @@
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-128" value="AWS Amplify" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="89.25" y="124.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UdzQwvJpdMNRFKDEHR6S-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="Q5xUvwP0jopd77sharJf-6" target="Q5xUvwP0jopd77sharJf-128">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.5" y="224.5" as="sourcePoint" />
-            <mxPoint x="300.5999999999999" y="371.25" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-113" value="" style="fontStyle=0;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="110" height="70" as="geometry" />
