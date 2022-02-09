@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T09:20:46.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="3m9azGZhW22fmRurXbTP" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T09:20:52.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Az2TYHhNlobBcEMxf4t2" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1666" dy="918" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-15" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
-          <mxGeometry x="64" y="45" width="90" height="20" as="geometry" />
+          <mxGeometry x="71.5" y="51" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-17" value="Send id photos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="214" y="75" width="100" height="20" as="geometry" />
