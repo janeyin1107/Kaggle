@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T09:21:08.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wVtYqyUlIIobWJxhdxwx" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T09:21:25.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="xNR7eKNzXs-1jDL0dEN4" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1666" dy="918" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -254,10 +254,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DE_dOQ6y79q5GgpMj_v9-11" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="ISSO12oXYyiH7cdDQ1HJ-32">
-          <mxGeometry x="11" y="52.25" width="58.5" height="58.5" as="geometry" />
+          <mxGeometry x="23" y="52.25" width="58.5" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="DE_dOQ6y79q5GgpMj_v9-12" value="Amazon&lt;br&gt;Cognito" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ISSO12oXYyiH7cdDQ1HJ-32">
-          <mxGeometry x="15.5" y="114" width="54" height="31" as="geometry" />
+          <mxGeometry x="25.25" y="111" width="54" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ISSO12oXYyiH7cdDQ1HJ-10" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ISSO12oXYyiH7cdDQ1HJ-32" vertex="1">
           <mxGeometry x="64" y="33.25" width="90" height="20" as="geometry" />
