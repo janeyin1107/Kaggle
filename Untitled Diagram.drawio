@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T09:20:52.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Az2TYHhNlobBcEMxf4t2" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T09:21:08.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="wVtYqyUlIIobWJxhdxwx" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1666" dy="918" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -74,13 +74,13 @@
           <mxGeometry x="428.87" y="275.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-26" value="IndexFaces API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
-          <mxGeometry x="500.87" y="202.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="500.87" y="199" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-20" value="Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="631.62" y="73" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-37" value="Store face name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
-          <mxGeometry x="660.87" y="191.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="659" y="199" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-132" value="Amazon API Gateway" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="141" y="335.25" width="79" height="30" as="geometry" />
