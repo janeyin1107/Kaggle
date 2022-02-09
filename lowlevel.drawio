@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T10:20:00.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="-ClLqPFfLb2reuMul4jt" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T10:24:58.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="oyNeKzxdbH_BPOhm13F7" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1149" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="udFu75R_qvl8o7ZPTZK6-48" value="AWS Lambda:&lt;br&gt;createAlbum" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="udFu75R_qvl8o7ZPTZK6-69" vertex="1">
-          <mxGeometry x="797.63" y="125.61999999999989" width="115.75" height="30" as="geometry" />
+          <mxGeometry x="804.7" y="126.12" width="95.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="udFu75R_qvl8o7ZPTZK6-49" value="AWS Lambda:&lt;br&gt;albumlist" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="udFu75R_qvl8o7ZPTZK6-69" vertex="1">
           <mxGeometry x="490.39" y="124.5" width="115.75" height="30" as="geometry" />
