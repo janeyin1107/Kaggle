@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T10:14:07.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="XBoprqn5Kh4DROCYPbZX" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T10:14:58.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="P9eHDSXCpsKjUc0IXaJA" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1149" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -266,8 +266,8 @@
         <mxCell id="udFu75R_qvl8o7ZPTZK6-16" value="Amazon S3 Bucket for unmodified photos" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="udFu75R_qvl8o7ZPTZK6-67" vertex="1">
           <mxGeometry x="425.96000000000004" y="240" width="136.57" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="udFu75R_qvl8o7ZPTZK6-17" value="store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="udFu75R_qvl8o7ZPTZK6-67" vertex="1">
-          <mxGeometry x="363.44000000000005" y="188" width="40" height="20" as="geometry" />
+        <mxCell id="udFu75R_qvl8o7ZPTZK6-17" value="Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="udFu75R_qvl8o7ZPTZK6-67" vertex="1">
+          <mxGeometry x="364.44000000000005" y="190" width="39" height="17" as="geometry" />
         </mxCell>
         <mxCell id="udFu75R_qvl8o7ZPTZK6-18" value="trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="udFu75R_qvl8o7ZPTZK6-67" vertex="1">
           <mxGeometry x="492.44000000000005" y="154" width="50" height="20" as="geometry" />
@@ -400,6 +400,9 @@
         </mxCell>
         <mxCell id="udFu75R_qvl8o7ZPTZK6-53" value="display/download" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="udFu75R_qvl8o7ZPTZK6-69" vertex="1">
           <mxGeometry x="395" y="305" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKPj2T2z4bruhZWwoyb-5" value="Trigger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="udFu75R_qvl8o7ZPTZK6-69">
+          <mxGeometry x="750.63" y="76" width="47" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
