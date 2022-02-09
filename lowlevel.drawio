@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T10:17:42.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="pmy6eLd6kDRljClvxdnB" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T10:17:51.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="-NYykc8ITXnbH1SZ0jGr" version="16.5.4" type="github">
   <diagram id="0s8Wk6ZnzA-2uvvJdeFV" name="Page-1">
     <mxGraphModel dx="1149" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           <mxGeometry x="516" y="167.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-30" value="Send opt-out list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
-          <mxGeometry x="222" y="197" width="97" height="17" as="geometry" />
+          <mxGeometry x="225" y="222" width="97" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Q5xUvwP0jopd77sharJf-34" value="Store lists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Q5xUvwP0jopd77sharJf-6" vertex="1">
           <mxGeometry x="399.25" y="318.75" width="70" height="20" as="geometry" />
